@@ -91,8 +91,6 @@ Low-code platform focused on workflow configuration, reusable components, and sc
 
 Email: [nisanthalex@gmail.com](mailto:nisanthalex@gmail.com)
 
-LinkedIn: [Add LinkedIn URL]
-
-GitHub: [Add GitHub URL]
+LinkedIn: [www.linkedin.com/in/nisanth-alex-9117116a]
 
 Location: Kerala, India
